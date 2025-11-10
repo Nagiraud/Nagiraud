@@ -2,7 +2,7 @@
    - 👋 Je suis Nathan Giraud
    - 👀 Développeur en 3ème année de BUT informatique au Puy-en-Velay
    - 🌱 J'apprends la programmation, la 3D, et plein d'autres choses
-   - 💼 En recherche de stage ou d'alternance pour la rentrée 2025/2026
+   - 💼 En recherche de stage pour Avril 2026
    - 📫 Comment me contacter ? Par mail : nathangiraud123@gmail.com
 
 <!---
