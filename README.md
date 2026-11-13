@@ -2,7 +2,7 @@
 👋 Je suis Nathan Giraud !  
 👀 Développeur, étudiant en 1re année de master informatique  
 🌱 J'apprends la programmation, la 3D, et plein d'autres choses  
-📫 Comment me contacter ? Par mail : nathangiraud123@gmail.com  
+📫 Vous voulez en savoir plus sur moi ? Venez voir mon Portfolio [nathan-giraud.netlify.app](https://nathan-giraud.netlify.app/)
 
 
 ## 🌐 Me contacter :
